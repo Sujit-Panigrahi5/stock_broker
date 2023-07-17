@@ -626,7 +626,9 @@ video {
   left: 0px;
 }
 
-
+.left-\[-\] {
+  left: -;
+}
 
 .left-\[-10px\] {
   left: -10px;
