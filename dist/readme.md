@@ -1,0 +1,7 @@
+![Screenshot 2023-07-17 230655](https://github.com/Sujit-Panigrahi5/stock_broker/assets/128701820/851674b1-deea-4e8f-bd6b-b8dbbe2fd3a5)
+![Screenshot 2023-07-17 230720](https://github.com/Sujit-Panigrahi5/stock_broker/assets/128701820/3732a81c-8a18-4a82-8923-a2f8c38fda72)
+![Screenshot 2023-07-17 230922](https://github.com/Sujit-Panigrahi5/stock_broker/assets/128701820/da782d7a-0cc5-47dd-b10e-0a762a12eef4)
+![Screenshot 2023-07-17 230945](https://github.com/Sujit-Panigrahi5/stock_broker/assets/128701820/504e3fa0-f75c-400d-8b59-7498a84a0d70)
+![Screenshot 2023-07-17 231008](https://github.com/Sujit-Panigrahi5/stock_broker/assets/128701820/a7013499-a13f-4c54-a782-e94b57f13d46)
+![Screenshot 2023-07-17 231027](https://github.com/Sujit-Panigrahi5/stock_broker/assets/128701820/c2b980d2-c0b2-47c9-9d5e-bdaa22ada187)
+![Screenshot 2023-07-17 231050](https://github.com/Sujit-Panigrahi5/stock_broker/assets/128701820/26f55f61-2ffc-4e02-b0a1-c140c4d20038)
